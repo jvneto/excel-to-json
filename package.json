@@ -1,0 +1,11 @@
+{
+    "name": "JsonToExcel",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "convert": "node ./convert.js"
+    },
+    "dependencies": {
+        "xlsx": "^0.18.5"
+    }
+}
